@@ -18,7 +18,7 @@ $no_algos: 6;
 
 nav
 {
-    background-color: rgb(59, 58, 58);
+    background-color: black;
     color: white;
     display: grid;
     grid-template-columns: 30% 60%;
@@ -61,7 +61,6 @@ nav
         .nav-heading
         {
             display: inline-block;
-            //text-align: center;
             font-size: xxx-large;
             padding: 3% 0%;
         }
@@ -81,7 +80,8 @@ nav
                 font-size: x-large;
                 &:hover
                 {
-                    background-color: blue;
+                    background-color: white;
+                    color: black;
                     cursor: pointer;
                 }
             }
@@ -99,7 +99,7 @@ nav
             .butt_selected
             {
                 background-color: white;
-                color:green;
+                color: black;
                 &:hover
                 {
                     background-color: white;
@@ -110,7 +110,8 @@ nav
             {
                 &:hover
                 {
-                    background-color: blue;
+                    background-color: white;
+                    color: black;
                     cursor: pointer;
                 }
             }
