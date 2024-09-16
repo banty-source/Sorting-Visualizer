@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   Banty Jha
     
     *****************
 */
@@ -94,7 +94,7 @@ function runalgo()
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-    Banty Jha
     
     *****************
 */
